@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DEMBA SOW</title>
+        <title>DEMBA SOW | THE SLEEPLESS NIGHTS</title>
         <link>https://dembasow98.github.io/</link>
-        <description>DEMBA SOW</description>
+        <description>THE SLEEPLESS NIGHTS</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 07:04:41 &#43;0300</lastBuildDate>
             <atom:link href="https://dembasow98.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
@@ -15,5 +15,13 @@
 ARE YOU WORKING
 YOOO THANKS
 BYE BYE.]]></description>
+</item><item>
+    <title>TRIP_TO_MAURITANIA</title>
+    <link>https://dembasow98.github.io/posts/trip_to_mauritania/</link>
+    <pubDate>Sun, 16 Apr 2023 07:02:49 &#43;0300</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dembasow98.github.io/posts/trip_to_mauritania/</guid>
+    <description><![CDATA[FOREWORDI recently went back on a trip to my home country of Mauritania after 5 years of living abroad, and it was unbeliaveable and an amazing experience. I got to explore the country and learn about its rich culture, history, and traditions. In this blog post, I will share some of my adventures and highlight some of the things that make
+About MeMy name is Demba Sow, and I&rsquo;m a travel enthusiast.]]></description>
 </item></channel>
 </rss>
