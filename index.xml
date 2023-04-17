@@ -6,15 +6,16 @@
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 07:04:41 &#43;0300</lastBuildDate>
             <atom:link href="https://dembasow98.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Testpost</title>
+    <title>TEST POST</title>
     <link>https://dembasow98.github.io/posts/testpost/</link>
     <pubDate>Sun, 16 Apr 2023 07:04:41 &#43;0300</pubDate><author>
-        <name>Author</name>
+        <name>DEMBA SOW</name>
     </author><guid>https://dembasow98.github.io/posts/testpost/</guid>
     <description><![CDATA[#THIS IS THE TEST POST, HELLO DUDE
 ARE YOU WORKING
 YOOO THANKS
-BYE BYE.]]></description>
+BYE BYE.title: &ldquo;TRIP TO MAURITANIA&rdquo; subtitle: A detailed blog post about my trip to Mauritania date: 2023-04-16T07:02:49+03:00 author: DEMBA SOW avatar: https://raw.githubusercontent.com/dembasow98/dembashow/main/images/1e8d4c864e788ef6f0de14bc7b702367%20-%20Copy.jpg description: keywords: license: comment: true weight: 0 tags:
+Travelling Advanture Personal Development Visit Culture categories: Travelling Advanture Personal Development Visit Culture hiddenFromHomePage: false hiddenFromSearch: false summary: resources: name: featured-image src: featured-image.png name: featured-image-preview src: featured-image-preview.jpg toc: true math: false lightgallery: false password: message: repost: enable: true url: ]]></description>
 </item><item>
     <title>TRIP TO MAURITANIA</title>
     <link>https://dembasow98.github.io/posts/trip_to_mauritania/</link>
