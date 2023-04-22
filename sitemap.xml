@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://dembasow98.github.io/about/</loc><lastmod>2023-04-22T10:00:00&#43;00:00</lastmod></url><url>
             <loc>https://dembasow98.github.io/tags/accident/</loc><lastmod>2023-04-17T13:57:00&#43;03:00</lastmod></url><url>
             <loc>https://dembasow98.github.io/categories/accident/</loc><lastmod>2023-04-17T13:57:00&#43;03:00</lastmod></url><url>
             <loc>https://dembasow98.github.io/categories/</loc><lastmod>2023-04-17T13:57:00&#43;03:00</lastmod></url><url>
@@ -28,4 +29,7 @@
             <loc>https://dembasow98.github.io/categories/travelling/</loc><lastmod>2023-04-16T07:04:41&#43;03:00</lastmod></url><url>
             <loc>https://dembasow98.github.io/tags/visit/</loc><lastmod>2023-04-16T07:04:41&#43;03:00</lastmod></url><url>
             <loc>https://dembasow98.github.io/categories/visit/</loc><lastmod>2023-04-16T07:04:41&#43;03:00</lastmod></url><url>
-            <loc>https://dembasow98.github.io/posts/trip_to_mauritania/</loc><lastmod>2023-04-16T07:02:49&#43;03:00</lastmod></url></urlset>
+            <loc>https://dembasow98.github.io/posts/trip_to_mauritania/</loc><lastmod>2023-04-16T07:02:49&#43;03:00</lastmod></url><url>
+            <loc>https://dembasow98.github.io/contact/</loc></url><url>
+            <loc>https://dembasow98.github.io/portfolio/</loc></url><url>
+            <loc>https://dembasow98.github.io/resume/</loc></url></urlset>
